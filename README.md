@@ -1,6 +1,6 @@
 # Ruboty::Instagram
 
-TODO: Write a gem description
+An ruboty handler to search images from Instagram.
 
 ## Installation
 
@@ -20,7 +20,19 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+> ruboty instagram <keyword>
+http://xxxx.jpg
+```
+
+## ENV
+
+```
+INSTAGRAM_CLIENT_ID 
+INSTAGRAM_CLIENT_SECRET
+```
+
+[instagram developer page](http://instagram.com/developer/)
 
 ## Contributing
 
